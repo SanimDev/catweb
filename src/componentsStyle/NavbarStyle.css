@@ -1,0 +1,33 @@
+.navbar{
+    background-color: #435334;
+    padding: none !important;
+    margin: none !important;
+
+}
+
+
+
+.footer-footer{
+    padding: 20px;
+    color: #FAF1E4;
+    background-color: #435334;
+    
+    padding: none !important;
+    margin: none !important;
+}
+.logo{
+    text-align: left;
+    margin-left: 50px;
+}
+.btnLogin{
+ 
+    height: 30px;
+    width: 70px;
+}
+.nav-item{
+    color: #FAF1E4;
+}
+.nav-item:hover{
+    color: black;
+}
+
